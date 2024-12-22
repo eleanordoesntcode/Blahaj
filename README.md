@@ -34,3 +34,7 @@ No need. I made this in my free time.
 ### Please...?
 
 Fine, press the sponsor button and then my "BuyMeACoffee" link.
+
+### How do I try/use this (i dont know how to webhost)
+
+Go to `https://walktheearth.github.io/Blahaj/`. 
